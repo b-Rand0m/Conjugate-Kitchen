@@ -1,27 +1,31 @@
-.banner{
-  background-color: black;
- /* background-image: url("/Images/Logo.jpg");*/
-  min-height: 10rem;
-  background-position: center;
-  background-repeat: no-repeat;
+.banner {
+	background-color: black;
+	/* background-image: url("/Images/Logo.jpg");*/
+	min-height: 10rem;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
-.nav-link{
-  color: #81b754 !important;
+.nav-link {
+	color: #81b754 !important;
 }
 
-.navbar-brand{
-  color: #81b754 !important;
+.navbar-brand {
+	color: #81b754 !important;
 }
 
-.Patua{
-  font-family: 'Patua One', cursive;
+.Patua {
+	font-family: 'Patua One', cursive;
 }
 
-.Secular{
-  font-family: 'Secular One', sans-serif;
+.Secular {
+	font-family: 'Secular One', sans-serif;
 }
 
-.Roboto{
-  font-family: 'Roboto', sans-serif;
+.Roboto {
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar-inner {
+	background: transparent;
 }
